@@ -27,7 +27,7 @@ This project is designed to automatically extract and summarize key information 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Medical_Doc_Summarization.git
+   git clone https://github.com/Kaiye-08/Medical_Doc_Summarization.git
    cd Medical_Doc_Summarization
     ```
 ## Live Demo
