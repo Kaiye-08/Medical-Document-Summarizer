@@ -1,10 +1,10 @@
-# Medical Document Summarizer
+# Medical Research Paper Summarizer
 
 This project is designed to automatically extract and summarize key information from clinical trial documents (e.g., PDF files of research articles) using state-of-the-art NLP models. The pipeline leverages the BigBird-Pegasus model for long-form summarization and includes content filtering, text cleaning, and post-processing to produce concise bullet-point and paragraph summaries.
 
 ## Features
 
-*Note*: User has to upload medical document into the file directory before running the model.
+*Note*: User has to upload medical research paper into the file directory before running the model.
 
 - **PDF Extraction:** Reads and filters PDF files to capture only pages with core content (e.g., Abstract, Methods, Results, Conclusions). 
 - **Text Cleaning:** Removes noisy metadata, citations, and excess whitespace.
@@ -31,4 +31,4 @@ This project is designed to automatically extract and summarize key information 
    cd Medical_Doc_Summarization
     ```
 ## Live Demo
-https://huggingface.co/spaces/Kaiyeee/Medical_Document_Summarizer
+https://huggingface.co/spaces/Kaiyeee/Medical_Research_Paper_Summarizer
